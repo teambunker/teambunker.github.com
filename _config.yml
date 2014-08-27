@@ -4,7 +4,7 @@ email: hoemoonee@gmail.com
 author: teambunker
 description: "teambunker."
 baseurl: ""
-url: "http://teambunker.gitub.io"
+url: "http://teambunker.github.io"
 
 # Build settings
 markdown: kramdown
