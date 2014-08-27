@@ -1,10 +1,10 @@
 # Site settings
-title: Pixyll
-email: johnotander@gmail.com
-author: John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title: teambunker
+email: hoemoonee@gmail.com
+author: teambunker
+description: "teambunker."
 baseurl: ""
-url: "http://pixyll.com"
+url: "http://teambunker.gitub.io"
 
 # Build settings
 markdown: kramdown
