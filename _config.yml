@@ -18,4 +18,7 @@ redcarpet:
       - autolink
       - hard_wrap
 permalink: pretty
-paginate: 3
+safe: true
+highlighter: pygments
+lsi: false
+paginate: 10
