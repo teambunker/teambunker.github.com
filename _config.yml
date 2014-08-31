@@ -17,6 +17,8 @@ redcarpet:
       - superscript
       - autolink
       - hard_wrap
+      - highlight
+      - quote
 permalink: pretty
 safe: true
 highlighter: pygments
