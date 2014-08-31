@@ -180,6 +180,8 @@ pre, code {
 
 code {
   color: #7a7a7a;
+  background-color: #EAEAEA;
+  padding: 0 .2em;
 }
 
 pre {
@@ -188,6 +190,7 @@ pre {
   line-height: 1.25rem;
   overflow-x: scroll;
   margin-bottom: 1rem;
+  background-color: #333;
 }
 
 .highlight .p {
